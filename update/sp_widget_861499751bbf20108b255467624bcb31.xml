@@ -33,7 +33,7 @@
         <sys_updated_on>2021-04-29 05:57:30</sys_updated_on>
         <template><![CDATA[<div class="panel-body">
 <!-- your widget template -->
-  Test Widget
+  Test Widget sample
 </div>]]></template>
     </sp_widget>
 </record_update>
